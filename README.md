@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 What I’m currently working on:
-  + arduStack - a stack based arduino c++ alternative
+  + nothing ¯\_(ツ)_/¯
 - 🌱 I’m currently learning:
   + How to write compilers
 - 📫 How to reach me:
